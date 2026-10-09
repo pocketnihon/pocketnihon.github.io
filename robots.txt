@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocketnihon.github.io/sitemap.xml
